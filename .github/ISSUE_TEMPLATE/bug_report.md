@@ -7,31 +7,30 @@ assignees: ''
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+## The problem
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+### 💻 Code demonstrating the problem
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+<!-- Demonstrate the problem -->
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+\`\`\`js
+import { fn } from 'date-fns'
 
-**Desktop (please complete the following information):**
- - Browser [e.g. chrome, safari]
- - date-fns version [e.g. 2.24]
+fn()
+//=> Problematic output
+\`\`\`
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
+### 🙁 Actual behavior
 
-**Additional context**
-Add any other context about the problem here.
+<!-- Describe what did you receive -->
+
+### 🙂 Expected behavior
+
+<!-- Describe what did you expect to get -->
+
+## Debug information
+
+- date-fns version: <!-- Fill in the date-fns version you use -->
+- Browser/Node.js version: <!-- Fill in the envrionment version (i.e. Chrome 94.0.4606.61) -->
+- Your timezone: <!-- Fill in your timezone name (i.e. Asia/Singapore) -->
+- Your current time: <!-- Fill in the time when did you tested the probmlem (i.e. 16:20) -->
