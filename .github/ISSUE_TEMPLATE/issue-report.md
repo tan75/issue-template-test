@@ -27,7 +27,7 @@ fn()
 
 ### 🙂 Expected behavior
 
-<!-- Describe what you expected to get -->
+<!-- Describe what you are expecting to get -->
 
 ## Debug information
 
