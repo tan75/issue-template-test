@@ -23,11 +23,11 @@ fn()
 
 ### 🙁 Actual behavior
 
-<!-- Describe what did you receive -->
+<!-- Describe what you are getting -->
 
 ### 🙂 Expected behavior
 
-<!-- Describe what did you expect to get -->
+<!-- Describe what you expected to get -->
 
 ## Debug information
 
